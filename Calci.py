@@ -1,4 +1,7 @@
 print("Addition:",2+2)
 print("Subtraction:",5-3)
-print("Multiplication:",5*2)
+print("Multiplication:",3*2)
 print("Division:",10/2)
+print("Exponentiation:",3**2)
+print("Modulus:",10%3)
+print("Floor Division:",10//3)
